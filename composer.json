@@ -27,6 +27,9 @@
       "BiffBangPow\\Element\\": "src/"
     }
   },
-  "extra": {
-  }
+    "extra": {
+        "expose": [
+            "client/dist"
+        ]
+    }
 }
