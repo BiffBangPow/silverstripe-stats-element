@@ -15,9 +15,8 @@
     }
   ],
   "require": {
-    "silverstripe/vendor-plugin": "^1.0",
-    "silverstripe/cms": "^4",
-    "dnadesign/silverstripe-elemental": "^4@stable || ^3@stable",
+    "silverstripe/cms": "^4 | ^5",
+    "dnadesign/silverstripe-elemental": "*",
     "biffbangpow/silverstripe-element-spacing": "^1",
     "biffbangpow/silverstripe-cta-extension": "^1",
     "biffbangpow/silverstripe-sortable-extension": "^2"
